@@ -1,0 +1,5 @@
+.hero-section {
+    @apply h-screen bg-center bg-cover blur-sm bg-no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)),
+        url("/assets/images/hero-primary.jpg");
+}
